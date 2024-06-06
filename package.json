@@ -1,14 +1,13 @@
 {
-  "name": "hex",
-  "version": "0.1.0",
+  "name": "node-hex",
+  "version": "1.0.0",
   "description": "Pretty-prints a Buffer",
   "keywords": [
     "hex",
     "print",
     "buffer"
   ],
-  "author": "Gabriel Llamas <gagle@outlook.com>",
-  "repository": "git://github.com/gagle/node-hex.git",
+  "repository": "git://github.com/node-modules/node-hex.git",
   "engines": {
     "node": ">=0.10"
   },

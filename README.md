@@ -1,5 +1,7 @@
-hex
+node-hex
 ===
+
+> forked from https://github.com/gagle/node-hex, return hex string instead of print to stdout
 
 #### Pretty-prints a Buffer ####
 
@@ -10,7 +12,8 @@ Prints the Buffer. No configuration, just give it a Buffer.
 
 ```javascript
 var hex = require('hex');
-hex(buffer);
+
+console.log(hex(buffer));
 ```
 
 ```
@@ -31,4 +34,4 @@ Offset   00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
 ```
 
 [npm-image]: http://img.shields.io/npm/v/hex.svg?style=flat
-[npm-url]: https://npmjs.org/package/hex
+[npm-url]: https://npmjs.org/package/node-hex
