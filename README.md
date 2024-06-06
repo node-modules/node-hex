@@ -33,5 +33,5 @@ Offset   00 01 02 03 04 05 06 07 08 09 0A 0B 0C 0D 0E 0F
 0000B0   00 00 00 00 00 00 00 00 00 00 00 00 00 00 33 89   ..............3.
 ```
 
-[npm-image]: http://img.shields.io/npm/v/hex.svg?style=flat
+[npm-image]: http://img.shields.io/npm/v/node-hex.svg?style=flat
 [npm-url]: https://npmjs.org/package/node-hex
