@@ -9,8 +9,14 @@
   ],
   "repository": "git://github.com/node-modules/node-hex.git",
   "engines": {
-    "node": ">=0.10"
+    "node": ">=8.0.0"
   },
   "license": "MIT",
-  "main": "lib"
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  }
 }
