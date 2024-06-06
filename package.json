@@ -1,6 +1,6 @@
 {
   "name": "node-hex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pretty-prints a Buffer",
   "keywords": [
     "hex",
